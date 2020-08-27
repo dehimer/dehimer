@@ -1,5 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on <a href="https://hyprr.com/">Hyprr.com</a>
+- 😄 Pronouns: I like React stack (React, TypeScript, Apollo/GraphQL, MaterialUI, styled-components)
+- 📫 How to reach me: @dehimer is my usual nickname
 
 <!--
 **dehimer/dehimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,19 +1,8 @@
-### Hi there 👋
-- 🔭 I’m currently working on <a href="https://hyprr.com/">Hyprr.com</a>
-- 😄 Pronouns: I like React stack (React, TypeScript, Apollo/GraphQL, MaterialUI, styled-components)
-- 📫 How to reach me: @dehimer is my usual nickname
+## Hey 👋, This is Denis Novikov
+[![Gmail Badge](https://img.shields.io/badge/-denvse@yandex.ru-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:denvse@yandex.ru)](mailto:denvse@yandex.ru) 
+[![Linkedin Badge](https://img.shields.io/badge/-dehimer-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dehimer/)](https://www.linkedin.com/in/dehimer/) [![Github Badge](https://img.shields.io/badge/-dehimer-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dehimer/)](https://www.github.com/dehimer/) [![Twitter Badge](https://img.shields.io/badge/-dehimer-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/dehimer/)](https://www.twitter.com/dehimer/) <p align='left'>JavaScript Developer that like React</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=dehimer alt=dehimer /> </p>
 
-<!--
-**dehimer/dehimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github stats](https://github-readme-stats.vercel.app/api?username=dehimer&show_icons=true&include_all_commits=true)](https://github.com/dehimer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dehimer&layout=compact)](https://github.com/dehimer/github-readme-stats)
